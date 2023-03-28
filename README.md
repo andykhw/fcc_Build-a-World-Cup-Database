@@ -1,0 +1,1 @@
+Build a Bash Script that enters the information from the CSV file on World Cup games into PostgreSQL. Then complete the queries on the database for useful statistics.
